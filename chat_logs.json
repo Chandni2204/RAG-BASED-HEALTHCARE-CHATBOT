@@ -1,0 +1,1090 @@
+[
+  {
+    "timestamp": "2024-12-08 00:20:06",
+    "user_query": "hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 47,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-08 00:20:27",
+    "user_query": "How are you",
+    "chatbot_response": "I'm here to assist you! How can I help you today? If you have any health-related questions or need advice, feel free to ask.",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are the typical symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 3,
+      "output_tokens": 70,
+      "input_cost": 0.0,
+      "output_cost": 0.0021,
+      "total_cost": 0.0021
+    }
+  },
+  {
+    "timestamp": "2024-12-08 00:21:23",
+    "user_query": "I am very tired and sleepy , what should i do",
+    "chatbot_response": "Your symptoms of tiredness and sleepiness could be due to a variety of reasons including inadequate sleep, poor diet, or a medical condition. To help address these symptoms, ensure you are getting enough rest, eating a balanced diet, and managing stress effectively. If these strategies do not improve your symptoms, or if you experience additional symptoms such as muscle or joint pain, cold intolerance, or weight changes, consider consulting a healthcare professional to explore the possibility of conditions like hypothyroidism or chronic fatigue syndrome.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 11,
+      "output_tokens": 140,
+      "input_cost": 0.0001,
+      "output_cost": 0.0042,
+      "total_cost": 0.0043
+    }
+  },
+  {
+    "timestamp": "2024-12-08 00:22:14",
+    "user_query": "I am very tired and sleepy , what should i do   its 12:21nam",
+    "chatbot_response": "If you're feeling very tired and sleepy at this late hour, it's likely due to natural sleepiness. I recommend preparing for bed and ensuring a comfortable sleep environment. Avoid caffeine or heavy meals close to bedtime, and try to relax with activities such as reading or listening to soft music. If you frequently feel overly tired despite getting adequate sleep, consider discussing this with a healthcare professional to explore possible underlying causes.",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of lupus to look out for?"
+    ],
+    "token_usage": {
+      "input_tokens": 18,
+      "output_tokens": 122,
+      "input_cost": 0.0002,
+      "output_cost": 0.0037,
+      "total_cost": 0.0038
+    }
+  },
+  {
+    "timestamp": "2024-12-08 00:52:20",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are common symptoms of a heart attack?",
+      "What are the common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 45,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-08 00:53:03",
+    "user_query": "I am having cold and cough",
+    "chatbot_response": "Based on your symptoms of having a cold and cough, it is possible that you are experiencing a common cold. The common cold is typically characterized by a runny nose, cough, sore throat, and sneezing. It is usually harmless and should resolve on its own with proper care.\n\n**Recommendations:**\n- Rest and avoid strenuous activities.\n- Stay hydrated with plenty of fluids like water, warm soups, and tea.\n- You may use over-the-counter medications such as antihistamines, decongestants, and cough syrups to relieve symptoms.\n- Maintain a balanced diet rich in vitamins to support your immune system.\n\nIf symptoms persist or worsen, please consult a healthcare professional for further evaluation.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What symptoms might adults experience with focal segmental glomerulosclerosis?",
+      "What are some common symptoms of lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 6,
+      "output_tokens": 180,
+      "input_cost": 0.0001,
+      "output_cost": 0.0054,
+      "total_cost": 0.0055
+    }
+  },
+  {
+    "timestamp": "2024-12-08 00:54:19",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some dietary recommendations for managing focal segmental glomerulosclerosis?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 45,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-08 00:54:49",
+    "user_query": "What are common symptoms of systemic lupus erythematosus?",
+    "chatbot_response": "Common symptoms of systemic lupus erythematosus (SLE) include fatigue, joint pain, skin rashes, fever, kidney issues, and a distinctive butterfly-shaped rash on the face.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are the common symptoms of Focal segmental glomerulosclerosis in adults?",
+      "What type of diet is recommended for someone with Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 13,
+      "output_tokens": 78,
+      "input_cost": 0.0001,
+      "output_cost": 0.0023,
+      "total_cost": 0.0025
+    }
+  },
+  {
+    "timestamp": "2024-12-08 00:55:12",
+    "user_query": "I am having cold and cough",
+    "chatbot_response": "Based on your symptoms of having a cold and cough, it sounds like you may be experiencing a common cold. This is a viral infection of the nose and throat and is usually harmless. To help manage your symptoms, consider taking antihistamines and cough syrups. Ensure you stay hydrated, rest adequately, and consume warm fluids like soup and tea. If symptoms worsen or do not improve, please consult a healthcare professional.",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 6,
+      "output_tokens": 129,
+      "input_cost": 0.0001,
+      "output_cost": 0.0039,
+      "total_cost": 0.0039
+    }
+  },
+  {
+    "timestamp": "2024-12-08 12:56:02",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in children?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 47,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-08 12:56:36",
+    "user_query": "I am sleepy , tired",
+    "chatbot_response": "Your symptoms of sleepiness and tiredness could be related to a variety of conditions, but without additional information, it's difficult to provide a specific diagnosis. Conditions such as chronic fatigue syndrome, fibromyalgia, hypoglycemia, and hypothyroidism all include fatigue as a symptom. To better understand the cause of your symptoms, consider factors such as duration of symptoms, any accompanying symptoms, and recent changes in your lifestyle or health. It may be beneficial to consult a healthcare professional for proper evaluation and diagnosis.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 5,
+      "output_tokens": 144,
+      "input_cost": 0.0001,
+      "output_cost": 0.0043,
+      "total_cost": 0.0044
+    }
+  },
+  {
+    "timestamp": "2024-12-08 12:59:04",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are the typical symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 46,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-08 12:59:26",
+    "user_query": "I am having cough and cold",
+    "chatbot_response": "Based on your symptoms of cough and cold, it sounds like you may be experiencing a common cold. This is a viral infection of the nose and throat and is usually harmless. To help manage and recover from your symptoms, it is recommended to rest, stay hydrated with warm fluids like soup and tea, and you may also use over-the-counter medications like antihistamines, decongestants, and cough syrups to alleviate the symptoms. If your symptoms persist or worsen, please consult a healthcare professional.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What symptoms might adults experience with focal segmental glomerulosclerosis?",
+      "What are some dietary recommendations for someone with Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 6,
+      "output_tokens": 139,
+      "input_cost": 0.0001,
+      "output_cost": 0.0042,
+      "total_cost": 0.0042
+    }
+  },
+  {
+    "timestamp": "2024-12-08 14:00:35",
+    "user_query": "hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some dietary recommendations for someone recovering from a heart attack?",
+      "What are the common symptoms of focal segmental glomerulosclerosis in children?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 49,
+      "input_cost": 0.0,
+      "output_cost": 0.0015,
+      "total_cost": 0.0015
+    }
+  },
+  {
+    "timestamp": "2024-12-08 14:01:00",
+    "user_query": "Hello",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What symptoms might suggest someone is having a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis?",
+      "What specific diet can help manage symptoms of Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 1,
+      "output_tokens": 45,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-08 14:01:32",
+    "user_query": "I am having stomachache",
+    "chatbot_response": "A stomachache can be caused by a variety of issues ranging from mild to severe. Common causes include indigestion, gastroenteritis, or irritable bowel syndrome (IBS). If your stomach pain is accompanied by symptoms like nausea, vomiting, diarrhea, bloating, or indigestion, it could be linked to one of these conditions.\n\nTo help manage the stomachache, consider the following steps:\n\n1. Rest and avoid any heavy physical activity.\n2. Drink plenty of fluids to stay hydrated, especially if you're experiencing vomiting or diarrhea.\n3. Eat bland, easy-to-digest foods like toast, rice, bananas, and applesauce.\n4. Avoid caffeine, alcohol, and spicy or fatty foods.\n\nIf the pain is severe, persistent, or accompanied by other worrying symptoms like fever, vomiting, a significant change in bowel habits, or if you suspect dehydration, it's important to seek medical attention promptly.",
+    "suggested_questions": [
+      "What are some symptoms of a heart attack that you should watch for?",
+      "What are some dietary recommendations for managing focal segmental glomerulosclerosis?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 5,
+      "output_tokens": 228,
+      "input_cost": 0.0001,
+      "output_cost": 0.0068,
+      "total_cost": 0.0069
+    }
+  },
+  {
+    "timestamp": "2024-12-08 14:10:49",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some dietary recommendations for managing focal segmental glomerulosclerosis?",
+      "What dietary changes can help manage lupus symptoms?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 44,
+      "input_cost": 0.0,
+      "output_cost": 0.0013,
+      "total_cost": 0.0013
+    }
+  },
+  {
+    "timestamp": "2024-12-08 14:11:05",
+    "user_query": "How are you",
+    "chatbot_response": "I'm here to assist you! How can I help you today? If you have any health-related questions or need information, feel free to ask.",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in children?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 3,
+      "output_tokens": 69,
+      "input_cost": 0.0,
+      "output_cost": 0.0021,
+      "total_cost": 0.0021
+    }
+  },
+  {
+    "timestamp": "2024-12-08 14:11:18",
+    "user_query": "Bye",
+    "chatbot_response": "Goodbye! If you have any more questions in the future, feel free to ask. Take care!",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What dietary changes can help manage lupus symptoms?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 56,
+      "input_cost": 0.0,
+      "output_cost": 0.0017,
+      "total_cost": 0.0017
+    }
+  },
+  {
+    "timestamp": "2024-12-08 14:21:25",
+    "user_query": "Hello",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of parvovirus B19 infection in children?",
+      "What are some dietary recommendations for someone with Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 1,
+      "output_tokens": 46,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-08 14:21:48",
+    "user_query": "I am not getting enough sleep",
+    "chatbot_response": "The symptom of not getting enough sleep could be related to various conditions or lifestyle factors. It may be linked to stress, poor sleep hygiene, or a medical condition such as chronic fatigue syndrome or fibromyalgia, both of which include sleep disturbances as a symptom. To address this issue, consider implementing good sleep hygiene practices such as maintaining a regular sleep schedule, creating a comfortable sleep environment, and avoiding caffeine and electronics before bedtime. If these adjustments do not improve your sleep, it is advisable to consult a healthcare professional for further evaluation and possible treatment.",
+    "suggested_questions": [
+      "What are some recommended dietary changes for someone recovering from a heart attack?",
+      "What are the common symptoms of Focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 6,
+      "output_tokens": 154,
+      "input_cost": 0.0001,
+      "output_cost": 0.0046,
+      "total_cost": 0.0047
+    }
+  },
+  {
+    "timestamp": "2024-12-08 14:53:49",
+    "user_query": "what is chickenpox",
+    "chatbot_response": "Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It typically presents with an itchy, blister-like rash that first appears on the chest, back, and face before spreading over the entire body. The rash can develop into 250 to 500 itchy blisters. Other symptoms include fever, fatigue, loss of appetite, and headaches. Chickenpox is common among children but can also affect adults who have not been vaccinated or previously infected.",
+    "suggested_questions": [
+      "What are some dietary recommendations for someone recovering from a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 5,
+      "output_tokens": 140,
+      "input_cost": 0.0001,
+      "output_cost": 0.0042,
+      "total_cost": 0.0042
+    }
+  },
+  {
+    "timestamp": "2024-12-09 07:39:43",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What foods should someone with lupus consider avoiding?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 48,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0015
+    }
+  },
+  {
+    "timestamp": "2024-12-09 07:39:55",
+    "user_query": "How are you",
+    "chatbot_response": "I'm here to help! How can I assist you today?",
+    "suggested_questions": [
+      "What lifestyle changes can help reduce the risk of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 3,
+      "output_tokens": 54,
+      "input_cost": 0.0,
+      "output_cost": 0.0016,
+      "total_cost": 0.0016
+    }
+  },
+  {
+    "timestamp": "2024-12-09 07:40:22",
+    "user_query": "I am having cough what should i eat",
+    "chatbot_response": "A cough can be symptomatic of various conditions, and dietary recommendations may vary depending on the underlying cause. However, for general support when having a cough, it's important to stay hydrated and eat soothing, easy-to-digest foods. Warm broths, herbal teas, honey (if over 1 year old), and ginger can be soothing. Avoiding irritants like cold, dry air, smoke, and allergens may also help manage your symptoms. If your cough persists, worsens, or is accompanied by other symptoms like fever, chest pain, or difficulty breathing, it is important to consult a healthcare professional for a more specific diagnosis and treatment plan.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in children?",
+      "What are common symptoms associated with systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 8,
+      "output_tokens": 172,
+      "input_cost": 0.0001,
+      "output_cost": 0.0052,
+      "total_cost": 0.0052
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:22:15",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are some dietary recommendations for managing focal segmental glomerulosclerosis?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 50,
+      "input_cost": 0.0,
+      "output_cost": 0.0015,
+      "total_cost": 0.0015
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:23:08",
+    "user_query": "How are you",
+    "chatbot_response": "I'm here to assist you! How can I help you today with your health concerns or questions?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are the common symptoms of focal segmental glomerulosclerosis?",
+      "What dietary changes can help manage Lupus symptoms?"
+    ],
+    "token_usage": {
+      "input_tokens": 3,
+      "output_tokens": 54,
+      "input_cost": 0.0,
+      "output_cost": 0.0016,
+      "total_cost": 0.0016
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:23:57",
+    "user_query": "what workout should i do after having chickenpox for recovery",
+    "chatbot_response": "After recovering from chickenpox, it's important to gradually reintroduce physical activity to avoid overexertion, which can delay recovery. Start with light activities such as walking, stretching, or gentle yoga. As your strength and energy levels improve, you can slowly increase the intensity and duration of your workouts. Always listen to your body and rest if you feel fatigued or unwell. Consult with your healthcare provider before starting any new exercise regimen to ensure it's appropriate for your specific health condition.",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are some common symptoms of parvovirus B19 infection in children?",
+      "What specific diet helps manage symptoms of Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 12,
+      "output_tokens": 140,
+      "input_cost": 0.0001,
+      "output_cost": 0.0042,
+      "total_cost": 0.0043
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:29:39",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What symptoms might adults experience with focal segmental glomerulosclerosis?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 44,
+      "input_cost": 0.0,
+      "output_cost": 0.0013,
+      "total_cost": 0.0013
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:30:05",
+    "user_query": "I am feeling so tired",
+    "chatbot_response": "Your feeling of tiredness could be due to a variety of reasons, including insufficient sleep, stress, or dietary issues. However, if this fatigue is persistent and severe, it could potentially be a symptom of Chronic Fatigue Syndrome, especially if it does not improve with rest and worsens with physical or mental activity. It might be helpful to monitor any other symptoms you might be experiencing, such as sleep disturbances or muscle/joint pain, and consider consulting a healthcare professional for an accurate diagnosis and appropriate management. In the meantime, maintaining a balanced diet, engaging in regular gentle exercise, and managing stress could help alleviate some of your fatigue.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What symptoms might adults experience with focal segmental glomerulosclerosis?",
+      "What are some common symptoms of lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 5,
+      "output_tokens": 160,
+      "input_cost": 0.0001,
+      "output_cost": 0.0048,
+      "total_cost": 0.0049
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:32:25",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 48,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0015
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:34:27",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 46,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:35:12",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some diet recommendations for someone recovering from a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 50,
+      "input_cost": 0.0,
+      "output_cost": 0.0015,
+      "total_cost": 0.0015
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:37:42",
+    "user_query": "Hii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What symptoms might adults experience with focal segmental glomerulosclerosis?",
+      "What are some recommended dietary changes for managing lupus symptoms?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 45,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:37:54",
+    "user_query": "How are you",
+    "chatbot_response": "I'm here to assist you! How can I help you today? If you have any health-related questions or need advice, feel free to ask.",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 3,
+      "output_tokens": 71,
+      "input_cost": 0.0,
+      "output_cost": 0.0021,
+      "total_cost": 0.0022
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:44:50",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 45,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:46:21",
+    "user_query": "How to strong the metabolism",
+    "chatbot_response": "To strengthen your metabolism, consider implementing the following practices:\n\n1. Eat regular meals and snacks to keep your metabolism steady.\n2. Include protein in every meal to boost your metabolic rate.\n3. Stay hydrated as water is essential for optimal metabolic function.\n4. Engage in regular physical activity, including both aerobic and strength-training exercises.\n5. Ensure adequate sleep as lack of sleep can slow down your metabolism.\n6. Manage stress as it can affect hormones that regulate metabolic processes.\n7. Avoid crash diets; they can decrease your metabolic rate over time.\n\nThese lifestyle changes can help enhance your metabolic rate and overall health. If you're experiencing issues with your metabolism, consult a healthcare professional for personalized advice.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of parvovirus B19 infection?",
+      "What are some common symptoms of lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 5,
+      "output_tokens": 174,
+      "input_cost": 0.0001,
+      "output_cost": 0.0052,
+      "total_cost": 0.0053
+    }
+  },
+  {
+    "timestamp": "2024-12-09 08:48:17",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are common symptoms of a heart attack?",
+      "What are some dietary adjustments recommended for managing focal segmental glomerulosclerosis?",
+      "What are common symptoms of lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 42,
+      "input_cost": 0.0,
+      "output_cost": 0.0013,
+      "total_cost": 0.0013
+    }
+  },
+  {
+    "timestamp": "2024-12-09 11:25:53",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 48,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0015
+    }
+  },
+  {
+    "timestamp": "2024-12-09 11:26:06",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are the common symptoms of focal segmental glomerulosclerosis in children?",
+      "What are some common symptoms of Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 44,
+      "input_cost": 0.0,
+      "output_cost": 0.0013,
+      "total_cost": 0.0013
+    }
+  },
+  {
+    "timestamp": "2024-12-09 11:26:25",
+    "user_query": "May I know how are you",
+    "chatbot_response": "I'm here to help you with your health-related questions! How can I assist you today?",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are the typical symptoms of parvovirus B19 in children?",
+      "What diet changes can help manage Lupus symptoms effectively?"
+    ],
+    "token_usage": {
+      "input_tokens": 6,
+      "output_tokens": 58,
+      "input_cost": 0.0001,
+      "output_cost": 0.0017,
+      "total_cost": 0.0018
+    }
+  },
+  {
+    "timestamp": "2024-12-09 11:27:17",
+    "user_query": "What are the common symptoms of Migraine",
+    "chatbot_response": "The common symptoms of migraine include severe headaches, nausea, vomiting, and sensitivity to light and sound.",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms associated with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 9,
+      "output_tokens": 57,
+      "input_cost": 0.0001,
+      "output_cost": 0.0017,
+      "total_cost": 0.0018
+    }
+  },
+  {
+    "timestamp": "2024-12-09 11:28:54",
+    "user_query": "what should i do take precautions",
+    "chatbot_response": "It seems you might have omitted the specific condition you are asking about precautions for. Could you please specify the health issue or condition for which you need precautionary advice? This will help me provide the most accurate and relevant information.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms someone with Lupus might experience?"
+    ],
+    "token_usage": {
+      "input_tokens": 6,
+      "output_tokens": 81,
+      "input_cost": 0.0001,
+      "output_cost": 0.0024,
+      "total_cost": 0.0025
+    }
+  },
+  {
+    "timestamp": "2024-12-09 11:29:24",
+    "user_query": "precautions for migrane",
+    "chatbot_response": "For managing migraines, the following precautions can be helpful:\n- Avoid known triggers, such as certain foods, stress, and changes in sleep patterns.\n- Maintain a regular sleep schedule.\n- Stay hydrated and maintain a balanced diet.\n- Practice stress reduction techniques, such as meditation or yoga.\n- Limit exposure to bright lights and loud sounds.\n- Avoid excessive caffeine and alcohol consumption.\n- Keep a headache diary to identify and avoid specific triggers.",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 6,
+      "output_tokens": 129,
+      "input_cost": 0.0001,
+      "output_cost": 0.0039,
+      "total_cost": 0.0039
+    }
+  },
+  {
+    "timestamp": "2024-12-09 16:56:58",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 48,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0015
+    }
+  },
+  {
+    "timestamp": "2024-12-09 17:35:40",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some liver-friendly foods that can help prevent heart attacks?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 48,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0015
+    }
+  },
+  {
+    "timestamp": "2024-12-09 17:59:43",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some common symptoms of Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 44,
+      "input_cost": 0.0,
+      "output_cost": 0.0013,
+      "total_cost": 0.0013
+    }
+  },
+  {
+    "timestamp": "2024-12-09 18:01:32",
+    "user_query": "I have a runny nose , what this can be",
+    "chatbot_response": "A runny nose can be a symptom of several conditions, but it is commonly associated with the common cold or allergic rhinitis (hay fever). If you have additional symptoms like coughing, sore throat, or sneezing, it may likely be a cold. If you're experiencing itchy eyes or a seasonal pattern to your symptoms, allergies might be the cause. Rest and hydration are generally recommended for both conditions. If symptoms persist or worsen, consider consulting a healthcare professional for a more specific diagnosis and treatment plan.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What specific diet changes can help manage lupus symptoms?"
+    ],
+    "token_usage": {
+      "input_tokens": 11,
+      "output_tokens": 142,
+      "input_cost": 0.0001,
+      "output_cost": 0.0043,
+      "total_cost": 0.0044
+    }
+  },
+  {
+    "timestamp": "2024-12-09 18:02:36",
+    "user_query": "I am very tired",
+    "chatbot_response": "Extreme fatigue can be a symptom of various conditions, including chronic fatigue syndrome, fibromyalgia, diabetes, or depression. To provide a more specific recommendation, additional information about any other symptoms you are experiencing would be helpful. If the fatigue is persistent and affecting your daily life, it's important to consult a healthcare professional for a proper diagnosis and appropriate treatment.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What symptoms might adults experience with focal segmental glomerulosclerosis?",
+      "What dietary changes are recommended for someone with Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 4,
+      "output_tokens": 107,
+      "input_cost": 0.0,
+      "output_cost": 0.0032,
+      "total_cost": 0.0033
+    }
+  },
+  {
+    "timestamp": "2024-12-11 22:04:10",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are the typical symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 46,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-11 22:04:51",
+    "user_query": "मुझे थकान और नींद आ रही है।",
+    "chatbot_response": "आपके लक्षणों के आधार पर, यह संभव है कि आपको च्रोनिक थकान सिंड्रोम हो सकता है, जिसमें अत्यधिक थकान होती है जो आराम करने से बेहतर नहीं होती। आपको अपने डॉक्टर से परामर्श करना चाहिए ताकि वे आपको उचित निदान और उपचार प्रदान कर सकें। इस बीच, नियमित, हल्की व्यायाम और तनाव प्रबंधन तकनीकों को अपनाना उपयोगी हो सकता है।",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in children?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 30,
+      "output_tokens": 338,
+      "input_cost": 0.0003,
+      "output_cost": 0.0101,
+      "total_cost": 0.0104
+    }
+  },
+  {
+    "timestamp": "2024-12-11 22:06:54",
+    "user_query": "Я чувствую усталость и сонливость.",
+    "chatbot_response": "Ваши симптомы усталость и сонливость могут быть признаками нескольких состояний, включая хронический утомительный синдром, депрессию или гипотиреоз, такой как при Хашимото. Рекомендуется обратиться к врачу для диагностики и подбора лечения. Важно также следить за режимом сна, питанием и уровнем стресса.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 17,
+      "output_tokens": 176,
+      "input_cost": 0.0002,
+      "output_cost": 0.0053,
+      "total_cost": 0.0054
+    }
+  },
+  {
+    "timestamp": "2024-12-12 12:49:50",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What symptoms might you experience during a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some common symptoms of lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 43,
+      "input_cost": 0.0,
+      "output_cost": 0.0013,
+      "total_cost": 0.0013
+    }
+  },
+  {
+    "timestamp": "2024-12-12 12:50:21",
+    "user_query": "I am having stomachache what should i do?",
+    "chatbot_response": "A stomachache can be caused by various conditions, ranging from mild to severe. To better address your stomachache, consider the following common steps:\n\n1. Rest and drink plenty of fluids.\n2. Avoid eating solid foods for a few hours.\n3. Use over-the-counter antacids or pain relievers like ibuprofen if there are no contraindications.\n4. Apply a warm compress to your abdomen.\n\nIf the pain is severe, persists, or is accompanied by other symptoms like fever, vomiting, or an inability to keep food down, it would be advisable to see a healthcare professional for a proper diagnosis and treatment.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 10,
+      "output_tokens": 164,
+      "input_cost": 0.0001,
+      "output_cost": 0.0049,
+      "total_cost": 0.005
+    }
+  },
+  {
+    "timestamp": "2024-12-12 12:53:53",
+    "user_query": "Hiii",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some common symptoms of Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 2,
+      "output_tokens": 43,
+      "input_cost": 0.0,
+      "output_cost": 0.0013,
+      "total_cost": 0.0013
+    }
+  },
+  {
+    "timestamp": "2024-12-12 12:54:16",
+    "user_query": "I am having stomachache",
+    "chatbot_response": "A stomachache can be caused by various conditions, some of which may be minor or more serious. Common causes include indigestion, gastroenteritis, or irritable bowel syndrome (IBS). If the pain is severe, persistent, or accompanied by other symptoms like vomiting, diarrhea, or fever, it's important to consult a healthcare professional for an accurate diagnosis and appropriate treatment. For mild stomachache, consider simple remedies such as resting, staying hydrated, and avoiding heavy, spicy, or fatty foods. If symptoms persist or worsen, please seek medical advice.",
+    "suggested_questions": [
+      "What are common symptoms of a heart attack?",
+      "What symptoms might adults experience with focal segmental glomerulosclerosis?",
+      "What are some common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 5,
+      "output_tokens": 151,
+      "input_cost": 0.0001,
+      "output_cost": 0.0045,
+      "total_cost": 0.0046
+    }
+  },
+  {
+    "timestamp": "2024-12-12 12:56:34",
+    "user_query": "मुझे पेट दर्द हो रहा है",
+    "chatbot_response": "Unable to determine the condition based on the provided symptoms. Please consult a healthcare professional.",
+    "suggested_questions": [
+      "What lifestyle changes can help prevent a heart attack?",
+      "What are some common symptoms of parvovirus B19 infection in children?",
+      "What specific dietary changes can help manage lupus symptoms?"
+    ],
+    "token_usage": {
+      "input_tokens": 22,
+      "output_tokens": 54,
+      "input_cost": 0.0002,
+      "output_cost": 0.0016,
+      "total_cost": 0.0018
+    }
+  },
+  {
+    "timestamp": "2024-12-12 12:57:27",
+    "user_query": "मुझे नींद आ रही है और थकान महसूस हो रही है",
+    "chatbot_response": "आपके लक्षण थकान और नींद आना संभवत: सामान्य सर्दी से संबंधित हो सकते हैं, जो एक हल्का वायरल संक्रमण है। आपको आराम करने, हाइड्रेटेड रहने और भरपूर गरम पेय पीने की सलाह दी जाती है। यदि लक्षण जारी रहते हैं या बदतर होते हैं, तो कृपया चिकित्सा पेशेवर से सलाह लें।",
+    "suggested_questions": [
+      "What symptoms might you notice if you're having a heart attack?",
+      "What are some dietary recommendations for managing focal segmental glomerulosclerosis?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 43,
+      "output_tokens": 293,
+      "input_cost": 0.0004,
+      "output_cost": 0.0088,
+      "total_cost": 0.0092
+    }
+  },
+  {
+    "timestamp": "2024-12-12 12:58:28",
+    "user_query": "मुझे उल्टी और सिरदर्द हो रहा है",
+    "chatbot_response": "आपके लक्षणों के आधार पर, यह निश्चित रूप से कहना मुश्किल है कि आपको कौन सी स्थिति हो सकती है क्योंकि उल्टी और सिरदर्द कई संभावित कारणों से हो सकते हैं। यह एक संक्रमण, माइग्रेन, खाद्य विषाक्तता या अन्य स्वास्थ्य समस्याएं हो सकती हैं। मैं अनुशंसा करूंगा कि आप एक स्वास्थ्य पेशेवर से परामर्श लें ताकि वे आपका उचित मूल्यांकन कर सकें और सही उपचार प्रदान कर सकें।",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of parvovirus B19 in adults?",
+      "What are some dietary recommendations for someone with lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 31,
+      "output_tokens": 372,
+      "input_cost": 0.0003,
+      "output_cost": 0.0112,
+      "total_cost": 0.0115
+    }
+  },
+  {
+    "timestamp": "2024-12-12 12:59:21",
+    "user_query": "मुझे नींद नहीं आ रही है",
+    "chatbot_response": "नींद न आना कई कारणों से हो सकता है, जैसे तनाव, चिंता, आहार में कैफीन का अधिक सेवन, और शारीरिक बीमारियाँ। यदि आपके पास अन्य लक्षण भी हैं जैसे कि थकान, मांसपेशियों में दर्द, या सिरदर्द, तो यह क्रोनिक थकान सिंड्रोम का संकेत हो सकता है। अगर नींद न आने की समस्या बनी रहती है, तो चिकित्सक से परामर्श लेना उचित होगा।",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are the typical symptoms of focal segmental glomerulosclerosis in adults?",
+      "What are some dietary recommendations for someone with Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 25,
+      "output_tokens": 338,
+      "input_cost": 0.0003,
+      "output_cost": 0.0101,
+      "total_cost": 0.0104
+    }
+  },
+  {
+    "timestamp": "2024-12-12 13:14:48",
+    "user_query": "What are the symptoms of Heart attack",
+    "chatbot_response": "The symptoms of a heart attack include fatigue, jaundice, abdominal pain, dark urine, and nausea.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are some common symptoms of focal segmental glomerulosclerosis in children?",
+      "What are some common symptoms of Lupus to look out for?"
+    ],
+    "token_usage": {
+      "input_tokens": 7,
+      "output_tokens": 61,
+      "input_cost": 0.0001,
+      "output_cost": 0.0018,
+      "total_cost": 0.0019
+    }
+  },
+  {
+    "timestamp": "2024-12-12 13:15:29",
+    "user_query": "precaution of heart attack?",
+    "chatbot_response": "To prevent a heart attack, follow these precautions: avoid smoking, maintain a healthy diet and regular exercise, manage stress effectively, monitor and control blood pressure and cholesterol levels, and avoid excessive alcohol consumption. Regular medical checkups are also important to assess cardiovascular health and manage any risk factors.",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are common symptoms of focal segmental glomerulosclerosis in children?",
+      "What dietary changes can help manage Lupus symptoms?"
+    ],
+    "token_usage": {
+      "input_tokens": 7,
+      "output_tokens": 92,
+      "input_cost": 0.0001,
+      "output_cost": 0.0028,
+      "total_cost": 0.0028
+    }
+  },
+  {
+    "timestamp": "2024-12-12 15:06:12",
+    "user_query": "Hello",
+    "chatbot_response": "Hello! How can I assist you today?",
+    "suggested_questions": [
+      "What are the common symptoms of a heart attack?",
+      "What are common symptoms of parvovirus B19 infection in adults?",
+      "What are some dietary recommendations for someone with Lupus?"
+    ],
+    "token_usage": {
+      "input_tokens": 1,
+      "output_tokens": 45,
+      "input_cost": 0.0,
+      "output_cost": 0.0014,
+      "total_cost": 0.0014
+    }
+  },
+  {
+    "timestamp": "2024-12-12 15:06:31",
+    "user_query": "नमस्ते",
+    "chatbot_response": "नमस्ते! आपको किस प्रकार की सहायता की आवश्यकता है?",
+    "suggested_questions": [
+      "What are some common symptoms of a heart attack?",
+      "What are the typical symptoms of parvovirus B19 in adults?",
+      "What are common symptoms of systemic lupus erythematosus?"
+    ],
+    "token_usage": {
+      "input_tokens": 6,
+      "output_tokens": 83,
+      "input_cost": 0.0001,
+      "output_cost": 0.0025,
+      "total_cost": 0.0026
+    }
+  }
+]
