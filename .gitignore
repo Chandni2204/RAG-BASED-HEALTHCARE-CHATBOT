@@ -1,0 +1,10 @@
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Environment file
+.env
+
+# IDE / system files
+.DS_Store
+Thumbs.db
